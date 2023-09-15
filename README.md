@@ -1,4 +1,5 @@
-### Hi there 👋
+```javascript
+console.log("Hello, World!");
 
 <!--
 **luiscuellar31/luiscuellar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
